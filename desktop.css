@@ -158,7 +158,7 @@ html {
 	.designtext {
 		color: #fff;
 		
-		background: linear-gradient(to right, #e72a3a 10%, #fff 50%, #5bdaff 60%);
+		background: linear-gradient(to right, #e72a3a 10%, ##8000FF 50%, #5bdaff 60%);
 		background-size: auto auto;
 		background-clip: border-box;
 		background-size: 200% auto;
@@ -167,7 +167,7 @@ html {
 		text-fill-color: transparent;
 		-webkit-background-clip: text;
 		-webkit-text-fill-color: transparent;
-		animation: textclip 1.5s linear;
+		animation: textclip 1.5s ease 2s 1.2s 2;
 		display: inline-block;
 	
 }
