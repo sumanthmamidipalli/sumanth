@@ -157,11 +157,7 @@ html {
 
 	.designtext {
 		color: #fff;
-		font-size: 92px;
-		font-family: "ubuntu";
-		text-transform: uppercase;
-		font-weight: 700;
-		font-family: "Josefin Sans", sans-serif;
+		
 		background: linear-gradient(to right, #e72a3a 10%, #fff 50%, #5bdaff 60%);
 		background-size: auto auto;
 		background-clip: border-box;
@@ -171,7 +167,7 @@ html {
 		text-fill-color: transparent;
 		-webkit-background-clip: text;
 		-webkit-text-fill-color: transparent;
-		animation: textclip 1.5s linear infinite;
+		animation: textclip 1.5s linear;
 		display: inline-block;
 	
 }
