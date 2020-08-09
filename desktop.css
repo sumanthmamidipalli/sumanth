@@ -168,6 +168,7 @@ html {
 		-webkit-background-clip: text;
 		-webkit-text-fill-color: transparent;
 		animation: textclip 1.5s linear infinite;
+		 animation-duration: 4s;
 		display: inline-block;
 	
 }
